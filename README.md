@@ -10,7 +10,8 @@
   <li>Administrator: controls all processes in the system within the limits of what is allowed</li>
 </ul>
 <h4>The web part of the application is developed on a basic layout using jQuery</h4> 
-<h4>Administrator and moderator work only in the <a href="https://github.com/victusic/SoundProductionDesktopApp">computer application</a>, while normal users use the site</h4> 
+<h4>Administrator and moderator work only in the <a href="https://github.com/victusic/SoundProductionDesktopApp">computer application</a>, while normal users use the <a href="https://github.com/victusic/SoundProductionFront">site</a></h4> 
+<h4>The project also works on <a href="https://github.com/victusic/SoundProductionApi">SoundProductionApi</a></h4> 
 
 <h5>Additionally:</h5>
 <ul>
@@ -29,7 +30,8 @@
   <li>Администратор: контроллирует все процессы в системе в рамках дозволенного</li>
 </ul>
 <h4>Веб часть приложения разработанна на базовой вёрстке с применением jQuery</h4> 
-<h4>Администратор и модератор работают только в <a href="https://github.com/victusic/SoundProductionDesktopApp">приложении для компьютера</a>, в то время как обычные пользователя пользуются сайтом</h4> 
+<h4>Администратор и модератор работают только в <a href="https://github.com/victusic/SoundProductionDesktopApp">приложении для компьютера</a>, в то время как обычные пользователя пользуются <a href="https://github.com/victusic/SoundProductionFront">сайтом</a></h4> 
+<h4>Так же проект работает на <a href="https://github.com/victusic/SoundProductionApi">SoundProductionApi</a></h4> 
 
 <h5>Дополнительно:</h5>
 <ul>
